@@ -1,3 +1,4 @@
 #git and github - th eull course
 
-a fact prosdf lskdjf l k kdkkd kslkd lkfjlwke l lwleek lw 
+LET'S MAKE A CHANGE HERE TO SEE WHY I AM NOT SEEING THIS READ ME IN VS CODE
+
